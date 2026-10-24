@@ -1,0 +1,19 @@
+[debug] [2026-01-17T06:20:46.307Z] ----------------------------------------------------------------------
+[debug] [2026-01-17T06:20:46.310Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2026-01-17T06:20:46.310Z] CLI Version:   15.3.1
+[debug] [2026-01-17T06:20:46.310Z] Platform:      win32
+[debug] [2026-01-17T06:20:46.310Z] Node Version:  v22.22.0
+[debug] [2026-01-17T06:20:46.310Z] Time:          Sat Jan 17 2026 13:20:46 GMT+0700 (Western Indonesia Time)
+[debug] [2026-01-17T06:20:46.310Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\user\Downloads\dashboard
+
